@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\adrien\documents\programmation\c - c++\chattcpservergui\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1454855690 c:\users\adrien\documents\programmation\c - c++\chattcpservergui\resource.h
+
+1454854559 source:c:\users\adrien\documents\programmation\c - c++\chattcpservergui\server.c
+
+1454855571 source:c:\users\adrien\documents\programmation\c - c++\chattcpservergui\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
